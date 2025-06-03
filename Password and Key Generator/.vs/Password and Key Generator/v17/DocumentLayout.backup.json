@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Password and Key Generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{760A781C-C9DF-48EF-A1F5-ACDB4D39EDA6}|Password and Key Generator.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\password and key generator\\frmkeygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{760A781C-C9DF-48EF-A1F5-ACDB4D39EDA6}|Password and Key Generator.csproj|solutionrelative:frmkeygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A781C-C9DF-48EF-A1F5-ACDB4D39EDA6}|Password and Key Generator.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\password and key generator\\frmpasswordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A781C-C9DF-48EF-A1F5-ACDB4D39EDA6}|Password and Key Generator.csproj|solutionrelative:frmpasswordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A781C-C9DF-48EF-A1F5-ACDB4D39EDA6}|Password and Key Generator.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\password and key generator\\frmpasswordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{760A781C-C9DF-48EF-A1F5-ACDB4D39EDA6}|Password and Key Generator.csproj|solutionrelative:frmpasswordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A781C-C9DF-48EF-A1F5-ACDB4D39EDA6}|Password and Key Generator.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\password and key generator\\passwordkeygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A781C-C9DF-48EF-A1F5-ACDB4D39EDA6}|Password and Key Generator.csproj|solutionrelative:passwordkeygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A781C-C9DF-48EF-A1F5-ACDB4D39EDA6}|Password and Key Generator.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\password and key generator\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{760A781C-C9DF-48EF-A1F5-ACDB4D39EDA6}|Password and Key Generator.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A781C-C9DF-48EF-A1F5-ACDB4D39EDA6}|Password and Key Generator.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\password and key generator\\frmkeygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A781C-C9DF-48EF-A1F5-ACDB4D39EDA6}|Password and Key Generator.csproj|solutionrelative:frmkeygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A781C-C9DF-48EF-A1F5-ACDB4D39EDA6}|Password and Key Generator.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\password and key generator\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A781C-C9DF-48EF-A1F5-ACDB4D39EDA6}|Password and Key Generator.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmKeyGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Password and Key Generator\\frmKeyGenerator.cs",
+              "RelativeDocumentMoniker": "frmKeyGenerator.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Password and Key Generator\\frmKeyGenerator.cs",
+              "RelativeToolTip": "frmKeyGenerator.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAjwB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:26:18.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmKeyGenerator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Password and Key Generator\\frmKeyGenerator.cs",
+              "RelativeDocumentMoniker": "frmKeyGenerator.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Password and Key Generator\\frmKeyGenerator.cs [Design]",
+              "RelativeToolTip": "frmKeyGenerator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:04:37.436Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPasswordGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Password and Key Generator\\frmPasswordGenerator.cs",
+              "RelativeDocumentMoniker": "frmPasswordGenerator.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Password and Key Generator\\frmPasswordGenerator.cs",
+              "RelativeToolTip": "frmPasswordGenerator.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAnwEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:26:07.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPasswordGenerator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Password and Key Generator\\frmPasswordGenerator.cs",
+              "RelativeDocumentMoniker": "frmPasswordGenerator.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Password and Key Generator\\frmPasswordGenerator.cs [Design]",
+              "RelativeToolTip": "frmPasswordGenerator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:04:05.685Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Password and Key Generator\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Password and Key Generator\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:02:55.69Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordKeyGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Password and Key Generator\\PasswordKeyGenerator.cs",
+              "RelativeDocumentMoniker": "PasswordKeyGenerator.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Password and Key Generator\\PasswordKeyGenerator.cs",
+              "RelativeToolTip": "PasswordKeyGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAjwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:30:51.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Password and Key Generator\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Password and Key Generator\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA4wBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:03:10.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Encrypt And Decrypt Text\bin\Debug\Encrypt And Decrypt Text.exe.config
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Encrypt And Decrypt Text\bin\Debug\Encrypt And Decrypt Text.exe
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Encrypt And Decrypt Text\bin\Debug\Encrypt And Decrypt Text.pdb
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Encrypt And Decrypt Text\obj\Debug\Encrypt And Decrypt Text.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Encrypt And Decrypt Text\obj\Debug\Encrypt_And_Decrypt_Text.Properties.Resources.resources
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Encrypt And Decrypt Text\obj\Debug\Encrypt And Decrypt Text.csproj.GenerateResource.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Encrypt And Decrypt Text\obj\Debug\Encrypt And Decrypt Text.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Encrypt And Decrypt Text\obj\Debug\Encrypt And Decrypt Text.exe
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Encrypt And Decrypt Text\obj\Debug\Encrypt And Decrypt Text.pdb
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Encrypt And Decrypt Text\obj\Debug\Encrypt_And_Decrypt_Text.frmEncryptAndDecryptText.resources
