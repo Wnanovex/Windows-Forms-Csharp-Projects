@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6D30B2-A469-4F45-84AE-C86920E84871}|Stone Paper Scissors Game.csproj|C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\frmmainstone_paper_scissors_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A6D30B2-A469-4F45-84AE-C86920E84871}|Stone Paper Scissors Game.csproj|solutionrelative:frmmainstone_paper_scissors_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6D30B2-A469-4F45-84AE-C86920E84871}|Stone Paper Scissors Game.csproj|C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\frmmainstone_paper_scissors_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6D30B2-A469-4F45-84AE-C86920E84871}|Stone Paper Scissors Game.csproj|solutionrelative:frmmainstone_paper_scissors_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6D30B2-A469-4F45-84AE-C86920E84871}|Stone Paper Scissors Game.csproj|C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A6D30B2-A469-4F45-84AE-C86920E84871}|Stone Paper Scissors Game.csproj|solutionrelative:frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6D30B2-A469-4F45-84AE-C86920E84871}|Stone Paper Scissors Game.csproj|C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6D30B2-A469-4F45-84AE-C86920E84871}|Stone Paper Scissors Game.csproj|solutionrelative:frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6D30B2-A469-4F45-84AE-C86920E84871}|Stone Paper Scissors Game.csproj|C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6D30B2-A469-4F45-84AE-C86920E84871}|Stone Paper Scissors Game.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6D30B2-A469-4F45-84AE-C86920E84871}|Stone Paper Scissors Game.csproj|C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\frmgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6D30B2-A469-4F45-84AE-C86920E84871}|Stone Paper Scissors Game.csproj|solutionrelative:frmgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Stone Paper Scissors Game||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6D30B2-A469-4F45-84AE-C86920E84871}|Stone Paper Scissors Game.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\stone paper scissors game\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmGame.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\frmGame.Designer.cs",
+              "RelativeDocumentMoniker": "frmGame.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\frmGame.Designer.cs",
+              "RelativeToolTip": "frmGame.Designer.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAwIgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:39:21.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:28:21.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmGame.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\frmGame.cs",
+              "RelativeDocumentMoniker": "frmGame.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\frmGame.cs",
+              "RelativeToolTip": "frmGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:32:00.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\frmGame.cs",
+              "RelativeDocumentMoniker": "frmGame.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\frmGame.cs [Design]",
+              "RelativeToolTip": "frmGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:30:13.465Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMainStone_Paper_Scissors_Game.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\frmMainStone_Paper_Scissors_Game.cs",
+              "RelativeDocumentMoniker": "frmMainStone_Paper_Scissors_Game.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\frmMainStone_Paper_Scissors_Game.cs*",
+              "RelativeToolTip": "frmMainStone_Paper_Scissors_Game.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:31:07.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMainStone_Paper_Scissors_Game.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\frmMainStone_Paper_Scissors_Game.cs",
+              "RelativeDocumentMoniker": "frmMainStone_Paper_Scissors_Game.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\frmMainStone_Paper_Scissors_Game.cs [Design]*",
+              "RelativeToolTip": "frmMainStone_Paper_Scissors_Game.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:19:23.958Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stone Paper Scissors Game",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\Stone Paper Scissors Game.csproj",
+              "RelativeDocumentMoniker": "Stone Paper Scissors Game.csproj",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Stone Paper Scissors Game\\Stone Paper Scissors Game.csproj",
+              "RelativeToolTip": "Stone Paper Scissors Game.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-15T15:49:47.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

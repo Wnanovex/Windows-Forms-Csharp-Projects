@@ -1,0 +1,21 @@
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Level_1\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.exe.config
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Level_1\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.exe
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Level_1\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.pdb
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Level_1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Level_1\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.Form1.resources
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Level_1\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.Properties.Resources.resources
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Level_1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.GenerateResource.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Level_1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Level_1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.exe
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Level_1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.pdb
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.exe.config
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.exe
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.pdb
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.Properties.Resources.resources
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.GenerateResource.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.exe
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.pdb
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.frmChoicePlayingWith.resources
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.frmGame.resources

@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Stone Paper Scissors Game\bin\Debug\Stone Paper Scissors Game.exe.config
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Stone Paper Scissors Game\bin\Debug\Stone Paper Scissors Game.exe
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Stone Paper Scissors Game\bin\Debug\Stone Paper Scissors Game.pdb
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Stone Paper Scissors Game\obj\Debug\Stone Paper Scissors Game.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Stone Paper Scissors Game\obj\Debug\Stone_Paper_Scissors_Game.Properties.Resources.resources
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Stone Paper Scissors Game\obj\Debug\Stone Paper Scissors Game.csproj.GenerateResource.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Stone Paper Scissors Game\obj\Debug\Stone Paper Scissors Game.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Stone Paper Scissors Game\obj\Debug\Stone Paper Scissors Game.exe
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Stone Paper Scissors Game\obj\Debug\Stone Paper Scissors Game.pdb
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Stone Paper Scissors Game\obj\Debug\Stone_Paper_Scissors_Game.frmGame.resources
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Stone Paper Scissors Game\obj\Debug\Stone_Paper_Scissors_Game.frmMainStone_Paper_Scissors_Game.resources
