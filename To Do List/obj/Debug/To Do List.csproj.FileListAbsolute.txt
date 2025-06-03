@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\To Do List\bin\Debug\To Do List.exe.config
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\To Do List\bin\Debug\To Do List.exe
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\To Do List\bin\Debug\To Do List.pdb
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\To Do List\obj\Debug\To Do List.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\To Do List\obj\Debug\To_Do_List.Properties.Resources.resources
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\To Do List\obj\Debug\To Do List.csproj.GenerateResource.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\To Do List\obj\Debug\To Do List.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\To Do List\obj\Debug\To Do List.exe
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\To Do List\obj\Debug\To Do List.pdb
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\To Do List\obj\Debug\To_Do_List.frmManageCategories.resources
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\To Do List\obj\Debug\To_Do_List.frmToDoList.resources

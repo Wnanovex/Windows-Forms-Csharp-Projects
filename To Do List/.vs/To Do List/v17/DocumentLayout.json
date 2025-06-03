@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\To Do List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{594F9D7D-82DE-43A8-B012-C61A15B3D2A2}|To Do List.csproj|C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\To Do List\\frmtodolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594F9D7D-82DE-43A8-B012-C61A15B3D2A2}|To Do List.csproj|solutionrelative:frmtodolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594F9D7D-82DE-43A8-B012-C61A15B3D2A2}|To Do List.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\to do list\\frmtodolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{594F9D7D-82DE-43A8-B012-C61A15B3D2A2}|To Do List.csproj|solutionrelative:frmtodolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594F9D7D-82DE-43A8-B012-C61A15B3D2A2}|To Do List.csproj|C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\To Do List\\frmmanagecategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{594F9D7D-82DE-43A8-B012-C61A15B3D2A2}|To Do List.csproj|solutionrelative:frmmanagecategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594F9D7D-82DE-43A8-B012-C61A15B3D2A2}|To Do List.csproj|C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\To Do List\\frmmanagecategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594F9D7D-82DE-43A8-B012-C61A15B3D2A2}|To Do List.csproj|solutionrelative:frmmanagecategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594F9D7D-82DE-43A8-B012-C61A15B3D2A2}|To Do List.csproj|C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\To Do List\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594F9D7D-82DE-43A8-B012-C61A15B3D2A2}|To Do List.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\To Do List\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\To Do List\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T22:07:35.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmManageCategories.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\To Do List\\frmManageCategories.cs",
+              "RelativeDocumentMoniker": "frmManageCategories.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\To Do List\\frmManageCategories.cs",
+              "RelativeToolTip": "frmManageCategories.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAjwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:20:05.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmManageCategories.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\To Do List\\frmManageCategories.cs",
+              "RelativeDocumentMoniker": "frmManageCategories.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\To Do List\\frmManageCategories.cs [Design]",
+              "RelativeToolTip": "frmManageCategories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:15:52.565Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmToDoList.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\To Do List\\frmToDoList.cs",
+              "RelativeDocumentMoniker": "frmToDoList.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\To Do List\\frmToDoList.cs",
+              "RelativeToolTip": "frmToDoList.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAnwO4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T22:45:56.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmToDoList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\To Do List\\frmToDoList.cs",
+              "RelativeDocumentMoniker": "frmToDoList.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\To Do List\\frmToDoList.cs [Design]",
+              "RelativeToolTip": "frmToDoList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T22:07:10.892Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
