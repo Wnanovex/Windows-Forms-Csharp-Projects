@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\math quiz game\\frmoptionsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|solutionrelative:frmoptionsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\math quiz game\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|solutionrelative:frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\math quiz game\\frmresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|solutionrelative:frmresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\math quiz game\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\math quiz game\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|solutionrelative:frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\math quiz game\\frmoptionsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|solutionrelative:frmoptionsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\math quiz game\\frmresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|solutionrelative:frmresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\math quiz game\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|c:\\users\\hp\\documents\\programming_linux\\c#\\c#_learn\\projects\\math quiz game\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A4695-743C-42F8-9928-6013583BC128}|Math Quiz Game.csproj|solutionrelative:frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmOptionsGame.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmOptionsGame.cs",
+              "RelativeDocumentMoniker": "frmOptionsGame.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmOptionsGame.cs",
+              "RelativeToolTip": "frmOptionsGame.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAewFIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:47:55.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmOptionsGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmOptionsGame.cs",
+              "RelativeDocumentMoniker": "frmOptionsGame.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmOptionsGame.cs [Design]",
+              "RelativeToolTip": "frmOptionsGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:47:17.39Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmGame.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmGame.cs",
+              "RelativeDocumentMoniker": "frmGame.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmGame.cs",
+              "RelativeToolTip": "frmGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:22:33.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:26:09.212Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmResults.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmResults.cs",
+              "RelativeDocumentMoniker": "frmResults.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmResults.cs [Design]",
+              "RelativeToolTip": "frmResults.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:56:08.882Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmResults.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmResults.cs",
+              "RelativeDocumentMoniker": "frmResults.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmResults.cs",
+              "RelativeToolTip": "frmResults.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAnwB4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:06:42.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmGame.cs",
+              "RelativeDocumentMoniker": "frmGame.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmGame.cs [Design]",
+              "RelativeToolTip": "frmGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T23:47:08.355Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:27:56.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAewBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:33:37.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "frmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\programming_linux\\C#\\C#_learn\\Projects\\Math Quiz Game\\frmMain.Designer.cs",
+              "RelativeToolTip": "frmMain.Designer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAlwD0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:33:48.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

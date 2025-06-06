@@ -1,0 +1,13 @@
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Math Quiz Game\bin\Debug\Math Quiz Game.exe.config
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Math Quiz Game\bin\Debug\Math Quiz Game.exe
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Math Quiz Game\bin\Debug\Math Quiz Game.pdb
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Math Quiz Game\obj\Debug\Math Quiz Game.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Math Quiz Game\obj\Debug\Math_Quiz_Game.Properties.Resources.resources
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Math Quiz Game\obj\Debug\Math Quiz Game.csproj.GenerateResource.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Math Quiz Game\obj\Debug\Math Quiz Game.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Math Quiz Game\obj\Debug\Math Quiz Game.exe
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Math Quiz Game\obj\Debug\Math Quiz Game.pdb
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Math Quiz Game\obj\Debug\Math_Quiz_Game.frmMain.resources
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Math Quiz Game\obj\Debug\Math_Quiz_Game.frmOptionsGame.resources
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Math Quiz Game\obj\Debug\Math_Quiz_Game.frmGame.resources
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Math Quiz Game\obj\Debug\Math_Quiz_Game.frmResults.resources
