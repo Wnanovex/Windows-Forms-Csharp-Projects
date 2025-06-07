@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Memory Game\bin\Debug\Memory Game.exe.config
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Memory Game\bin\Debug\Memory Game.exe
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Memory Game\bin\Debug\Memory Game.pdb
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Memory Game\obj\Debug\Memory Game.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Memory Game\obj\Debug\Memory_Game.frmMain.resources
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Memory Game\obj\Debug\Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Memory Game\obj\Debug\Memory Game.exe
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Memory Game\obj\Debug\Memory Game.pdb
+C:\Users\hp\Documents\programming_linux\C#\C#_learn\Projects\Memory Game\obj\Debug\Memory_Game.frmGame.resources
